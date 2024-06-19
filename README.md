@@ -9,6 +9,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>   
+    <img src="https://www.codesmith.io/hs-fs/hubfs/Blog%20Images/Blog%20Photos/react-router-logo.png?width=600&name=react-router-logo.png" alt="react router" width="50" height="40"/>
+  
    <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" width="60" height="40"/>  
  <img src="https://images.ctfassets.net/sw4ojjqn6qvl/2QY1qFPui5ESz5kqivIaxy/0110fabb8ca776614be476970a57ca36/react-query-seeklogo.com.svg?" alt="react-query" width="40" height="40"/>
  <img src="https://logowik.com/content/uploads/images/axios3626.jpg" alt="axios" width="40" height="40"/>

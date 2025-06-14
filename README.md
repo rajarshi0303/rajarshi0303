@@ -32,5 +32,5 @@ I'm always open to cool projects, collaborations, or just geeking out about tech
 Let’s build something amazing together — feel free to reach out! 🤝
 
 📫 **Email**: rajarshi0303@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/rajarshi0303](https://www.linkedin.com/in/rajarshi-patel/)  
+🔗 **LinkedIn**: [linkedin.com/in/rajarshi-patel](https://www.linkedin.com/in/rajarshi-patel/)  
 🐙 **GitHub**: [github.com/rajarshi0303](https://github.com/rajarshi0303)

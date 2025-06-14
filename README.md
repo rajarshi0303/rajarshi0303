@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> My name is Rajarshi and I'm a <b>Web developer</b>, from India
+<p>Welcome to my page!<br>I'm <b>Rajarshi Patel</b> — a passionate <b>Fullstack Developer</b>, from India
 
 
 ## 👋 About Me
@@ -15,10 +15,22 @@ I'm a passionate Web Developer 🌐 with a knack for brainstorming innovative id
 * <b>Scalability</b>: Building for today, ready for tomorrow. 📈
 
 ## 🛠️ Tech Stack
-* <b>Frontend</b>: HTML5, CSS, TailwindCSS, JavaScript, ReactJs,
-* <b>Libraries</b>: React Router, React Query, Axios ,React Testing Library, Jest ,Framer-motion
-* <b>Tools</b>: Git, GitHub, VS Code
-* <b>Backend</b>: MySql, Python, Django
+* <b>Frontend</b> : `HTML5` · `CSS3` · `TailwindCSS (v4)` · `JavaScript (ES15+)` · `React.js (v19)` · `TypeScript`  
+`React Router` · `Zustand` · `Context API` · `React Query (v5)` · `Axios` · `Framer Motion`  
+`React-Hook-Form` · `Immer` · `Zod` · `Shadcn/UI` · `AccernityUI` · `Responsive Web Design`  
+`Intersection Observer` · `Performance Optimization` · `Vite`
+* <b>Backend</b> : `Node.js` · `Express.js (MVC, Middleware, Routing)` · `MongoDB` · `Mongoose ODM`  
+`REST APIs` · `Socket.IO` · `Redis` · `MySQL` · `File Handling` · `Streams` · `EJS`  
+`Authentication (JWT, OAuth2, Passport.js)` · `Security Practices (CORS, XSS, CSRF, etc.)`  
+`Docker` · `Postman` · `Environment Config` · `SSR` · `Clustering` · `Worker Threads`
+* <b>Testing & Debugging</b> : `Vitest` · `Jest` · `React Testing Library` · `user-event`  
+DevTools: `React`, `Browser`, `Redux`, `React-Query`, `React-Hook-Form`, `Vitest UI`
+* <b>Tools</b> : Git, GitHub, Docker, DockerHub, VS Code
 
 ## 🌟 Let's Connect!
-I'm always open to new ideas, projects, and collaborations. Feel free to reach out, and let's make something amazing together! 🤝
+I'm always open to cool projects, collaborations, or just geeking out about tech.  
+Let’s build something amazing together — feel free to reach out! 🤝
+
+📫 **Email**: rajarshi0303@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/rajarshi0303](https://linkedin.com/in/rajarshi0303)  
+🐙 **GitHub**: [github.com/rajarshi0303](https://github.com/rajarshi0303)

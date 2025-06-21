@@ -15,17 +15,18 @@ I'm a passionate FullStack Web Developer 🌐 with a knack for brainstorming inn
 * <b>Scalability</b>: Building for today, ready for tomorrow. 📈
 
 ## 🛠️ Tech Stack
-* <b>Frontend</b> : `HTML5` · `CSS3` · `TailwindCSS (v4)` · `JavaScript (ES15+)` · `React.js (v19)` · `TypeScript`  
-`React Router` · `Zustand` · `Context API` · `React Query (v5)` · `Axios` · `Framer Motion`  
-`React-Hook-Form` · `Immer` · `Zod` · `Shadcn/UI` · `AccernityUI` · `Responsive Web Design`  
-`Intersection Observer` · `Performance Optimization` · `Vite`
-* <b>Backend</b> : `Node.js` · `Express.js (MVC, Middleware, Routing)` · `MongoDB` · `Mongoose ODM`  
-`REST APIs` · `Socket.IO` · `Redis` · `MySQL` · `File Handling` · `Streams` · `EJS`  
-`Authentication (JWT, OAuth2, Passport.js)` · `Security Practices (CORS, XSS, CSRF, etc.)`  
-`Docker` · `Postman` · `Environment Config` · `SSR` · `Clustering` · `Worker Threads`
+* <b>Languages</b> : `JavaScript (ES6+)` · `TypeScript` · `Python` · `C` · `Object-Oriented Programming (OOP)`
+* <b>Frontend</b> : `HTML5` · `CSS3` · `TailwindCSS` · `React.js` · `React Router` · `Zustand` · `Context API` · `React Query`  
+`Axios` · `Framer Motion` · `React-Hook-Form` · `Immer` · `Zod` · `Shadcn/UI` · `AccernityUI` · `Vitest`  `Responsive Web Design`  
+`Intersection Observer` · `Performance Optimization` · `API Integration` · `Automated Testing`
+* <b>Backend</b> : `Node.js` · `Express.js (MVC, Middleware, Routing)` · `MongoDB` · `Mongoose ODM` · `REST APIs` · `Socket.IO`  
+`Redis` · `MySQL` · `File Handling` · `Streams` · `EJS` · `Environment Config` · `SSR` · `Clustering` · `Worker Threads`
+* <b>Security</b> : `Authentication (JWT & Session-Based)` · `Authorization` · `Passport.js` · `OAuth2` · `bcrypt`  
+`Symmetric/Asymmetric Encryption (RSA, RS256, HS256)` · `OpenSSL` · `HTTPS/WSS` · `Helmet` · `CORS` · `CSRF` · `XSS`  
+`NoSQL Injection` · `HPP` · `Input Validation & Sanitization` · `Rate Limiting` 
 * <b>Testing & Debugging</b> : `Vitest` · `Jest` · `React Testing Library` · `user-event`  
 DevTools: `React`, `Browser`, `Redux`, `React-Query`, `React-Hook-Form`, `Vitest UI`
-* <b>Tools</b> : Git, GitHub, Docker, DockerHub, VS Code
+* <b>DevOps & Tools</b> : `Git` · `GitHub` · `Docker` · `DockerHub` · `Postman` · `VSCode` · `ESLint` · `Prettier` 
 
 ## 🌟 Let's Connect!
 I'm always open to cool projects, collaborations, or just geeking out about tech.  

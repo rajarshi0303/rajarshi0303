@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page!<br>I'm <b>Rajarshi Patel</b> — a passionate <b>Fullstack Developer</b>, from India
+<p>Welcome to my page!<br>I'm <b>Rajarshi Patel</b> — a <b>FullStack Developer</b>, from India
 
 
 ## 👋 About Me
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-I'm a passionate Web Developer 🌐 with a knack for brainstorming innovative ideas 💡 and tackling challenging problems 🧩. My goal is to find simple and scalable solutions ⚙️ that can make a real difference 🌟. Whether it's crafting a sleek user interface 🎨 or optimizing backend processes 💻, I thrive on bringing ideas to life in the digital space 🚀.
+I'm a passionate FullStack Web Developer 🌐 with a knack for brainstorming innovative ideas 💡 and tackling challenging problems 🧩. My goal is to find simple and scalable solutions ⚙️ that can make a real difference 🌟. Whether it's crafting a sleek user interface 🎨 or optimizing backend processes 💻, I thrive on bringing ideas to life in the digital space 🚀.
 
 ### 🔍 What Drives Me
 * <b>Curiosity</b>: Always exploring the tech universe. 🚀
